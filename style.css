@@ -1,0 +1,16 @@
+body {
+
+}
+
+.heading {
+    width: 100%;
+}
+
+#instructions {
+    float: right;
+    border: 2px solid black;
+}
+
+#canvas {
+    border-radius: 5px 5px 5px solid;
+}
